@@ -19,3 +19,4 @@ Miles-To-Km-Converter is a simple graphical user interface (GUI) tool that allow
 4. Repeat the process for any additional conversions you need.
 
 ## Preview
+![Screenshot (190)](https://github.com/AdeyemiEmmanuel/Miles-To-Km-Converter/assets/98936329/e9093874-75e7-4972-be4c-5a5f0f5138d2)
